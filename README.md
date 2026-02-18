@@ -24,29 +24,29 @@ real-world problems, and continuously learning new technologies.
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a> 
 
-<a href="https://raw.githubusercontent.com//RushikeshRPatil/Resume/main/Rushikesh-Rajesh-Patil%20resume.pdf">
+<a href="https://raw.githubusercontent.com/RushikeshRPatil/Resume/main/Rushikesh-Rajesh-Patil%20resume.pdf">
 <img src="https://img.icons8.com/fluency/48/resume.png" height="48"/>
 </a>
 </p>
 
 ---
 
-## 💻 Languages and Tools: 
+## 💻 Languages and Tools:
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,mongodb,react,nodejs,git,docker,aws,spring,tailwind,ts" />
 </p>
 
-
 ---
 
 ## 📊 GitHub Stats
 
-<!-- This is a comment 
+<!-- Stats temporarily hidden
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rushipfq242441&show_icons=true&theme=tokyonight"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushipfq242441&layout=compact&theme=tokyonight"/>
-</p>-->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RushikeshRPatil&show_icons=true&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushikeshRPatil&layout=compact&theme=tokyonight"/>
+</p>
+-->
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=RushikeshRPatil&theme=tokyonight"/>
